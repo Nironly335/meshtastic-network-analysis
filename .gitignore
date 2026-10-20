@@ -1,0 +1,14 @@
+# Messdaten nicht hochladen (enthalten Namen, MAC-Adressen, Positionen)
+*.db
+*.log
+unique_nodes.txt
+airutil.csv
+hop_nodes.csv
+hop_summary.csv
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+*.bin
